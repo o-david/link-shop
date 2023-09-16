@@ -4,38 +4,38 @@ import Footer from "./components/Footer.vue";
 import { ig, coffee, git, linkedIn, folio, script } from "./assets/index";
 let portfolio = {
   name: "Portfolio",
-  disc: "Explore my portfolio website to discover a curated collection of my creative work, showcasing my skills in design, development, and more.",
-  link: "https://kundankr.online/",
+  disc: "Welcome to my creative universe! Explore my portfolio to witness the visual stories and projects that define my passion and dedication. Let's turn visions into realities. 🎨📂",
+  link: "https://portfolio-david-alpha.vercel.app/",
   logo: folio,
 };
 let resume = {
   name: "Resume",
-  disc: "Join our web developer community server on Discord, where you can ask any questions related to web development and help others with their queries. Let's come together to share knowledge and support each other in our web development journey.",
-  link: "https://discord.gg/KYfPpKbZmE",
+  disc: "Curious about my professional journey? Dive into my resume to explore my career milestones, skills, and experiences. Let's connect the dots and create something amazing together. 🚀🌟",
+  link: "https://drive.google.com/file/d/1lVDyPOTXxwtghQj9qBmWjTp0RDVn5bEl/view?usp=sharing",
   logo: script,
 };
 let buyCoffee = {
   name: "Buy Me a Coffee",
-  disc: "If you appreciate my work, and you're feeling generous feel free to buy me a cup of coffee. Thank you!",
-  link: "https://www.buymeacoffee.com/kundnkr",
+  disc: "Enjoying my vibe? Feel free to buy me a coffee! Your support keeps the creativity flowing and the caffeine levels up. Thanks a latte! ☕️😊",
+  link: "https://www.buymeacoffee.com/okekedavid",
   logo: coffee,
 };
 let github = {
   name: "GitHub",
-  disc: "Don't feel like manually copying the code? Grab the code straight from GitHub.",
-  link: "https://github.com/Kundnkr?tab=repositories",
+  disc: "Crack open the code vault! My GitHub is a digital realm where my projects come to life. Dive into the lines of code that shape my tech world. Let's build the future, one commit at a time. 💻✨",
+  link: "https://github.com/o-david",
   logo: git,
 };
 let instagram = {
   name: "Instagram",
-  disc: "Stay in the loop with my life's adventures by connecting with me on Instagram.",
-  link: "https://www.instagram.com/kundnkr/",
+  disc: "Hey there! Instagram is where I spill the beans on all things me. From ping-pong showdowns to life's ups and downs, it's all here. Let's connect and share some laughs, wins, and maybe even a few epic fails! 🏓📸 #LifeUnfiltered",
+  link: "https://www.instagram.com/mrdavid_o/",
   logo: ig,
 };
 let linkedin = {
-  name: "YouTube",
-  disc: "Do you want longer & details step-by-step toturial? Subscribe to my Channel.",
-  link: "https://youtube.com/@kundnkr",
+  name: "LinkedIn",
+  disc: "Greetings! This is my LinkedIn lair—where professionalism meets playful pizzazz. 🎉 Let's link up and sprinkle some fun into the serious side of careers! 🚀🎈",
+  link: "https://www.linkedin.com/in/obinna-okeke-0a7445173/",
   logo: linkedIn,
 };
 </script>
