@@ -5,7 +5,7 @@ import { ig, coffee, git, linkedIn, folio, script } from "./assets/index";
 let portfolio = {
   name: "Portfolio",
   disc: "Welcome to my creative universe! Explore my portfolio to witness the visual stories and projects that define my passion and dedication. Let's turn visions into realities. 🎨📂",
-  link: "https://portfolio-david-alpha.vercel.app/",
+  link: "https://react-portfolio-eta-kohl.vercel.app/",
   logo: folio,
 };
 let resume = {
