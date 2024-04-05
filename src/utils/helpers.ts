@@ -18,7 +18,7 @@ export const getApp = () =>{
 
 const getSubDomain = (location:string) =>{
     const locationParts = location.split('.')
-    let sliceTill = -2
+    let sliceTill = -3
 
     const isLocalHost = locationParts.slice(-1)[0] === 'localhost';
     if(isLocalHost)sliceTill = -1
